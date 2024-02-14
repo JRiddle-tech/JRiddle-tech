@@ -10,7 +10,7 @@
 
 - <b>Proxmox Home Lab </b>
   - PC build (https://github.com/JRiddle-tech/REPOURL)
-  - Configuring PCIe passthrough (https://github.com/JRiddle-tech/REPOURL)
+  - [Configuring PCIe passthrough](https://github.com/JRiddle-tech/ProxmoxHomeLab/tree/main)
   - Configuring ZFS RAID storage with TrueNAS (https://github.com/JRiddle-tech/REPOURL)
   - Virtualize Router to segment home network (https://github.com/JRiddle-tech/REPOURL)
 
