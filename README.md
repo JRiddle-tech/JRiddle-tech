@@ -2,7 +2,7 @@
 
 <h2>Certifications:</h2>
 
-  - CompTIA A+ (February 2024) (https://github.com/JRiddle-tech/LinktoCert)
+  - CompTIA A+ (February 2024) (https://i.imgur.com/npvkKmV.png)
   - Google IT Support Professional (December 2023)
   - Google Cybersecurity Certificate (November 2023)
 
@@ -20,7 +20,7 @@
 
 [twitter]:
 [youtube]: 
-[linkedin]:
+  - LinkedIn (www.linkedin.com/in/jack-riddle-tech)
 
 <!--
 Here are some ideas to get you started:
