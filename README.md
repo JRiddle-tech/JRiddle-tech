@@ -2,9 +2,9 @@
 
 <h2>Certifications:</h2>
 
-  - CompTIA A+ (February 2024) (https://i.imgur.com/npvkKmV.png)
-  - Google IT Support Professional (December 2023)
-  - Google Cybersecurity Certificate (November 2023)
+  - [CompTIA A+](https://i.imgur.com/npvkKmV.png) (February 2024) 
+  - [Google IT Support Professional](https://i.imgur.com/GSDwZIM.png) (December 2023)
+  - [Google Cybersecurity Certificate](https://i.imgur.com/z4Vrobd.png) (November 2023)
 
 <h2>👨‍💻 Development Projects:</h2>
 
@@ -14,13 +14,9 @@
   - Configuring ZFS RAID storage with TrueNAS (https://github.com/JRiddle-tech/REPOURL)
   - Virtualize Router to segment home network (https://github.com/JRiddle-tech/REPOURL)
 
-- <b> Active Directory Home Lab </b>
-
 <h2> 🤳 Connect with me:</h2>
 
-[twitter]:
-[youtube]: 
-  - LinkedIn (www.linkedin.com/in/jack-riddle-tech)
+  - [LinkedIn](www.linkedin.com/in/jack-riddle-tech)
 
 <!--
 Here are some ideas to get you started:
