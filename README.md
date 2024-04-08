@@ -9,7 +9,8 @@
 
 <h2>👨‍💻 Development Projects:</h2>
 
-- <b>Proxmox Home Lab </b>
+- <b>Proxmox Homelab </b>
+  - [Homelab PC Build](https://github.com/JRiddle-tech/Homelab-Build/tree/main)
   - [Configuring PCIe passthrough on Proxmox](https://github.com/JRiddle-tech/ProxmoxHomeLab/tree/main)
   - Virtualize Firewall/Router with pfSense
 
