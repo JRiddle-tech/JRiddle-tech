@@ -2,7 +2,7 @@
 
 <h2>Certifications:</h2>
 
-  - CompTIA Network+ (In progress)
+  - [CompTIA Network+](https://i.imgur.com/pikaMvV.png) (May 2024)
   - [CompTIA A+](https://i.imgur.com/npvkKmV.png) (February 2024) 
   - [Google IT Support Professional](https://i.imgur.com/GSDwZIM.png) (December 2023)
   - [Google Cybersecurity Certificate](https://i.imgur.com/z4Vrobd.png) (November 2023)
