@@ -12,6 +12,7 @@
 - <b>Proxmox Homelab </b>
   - [Homelab PC Build](https://github.com/JRiddle-tech/Homelab-Build/tree/main)
   - [Configuring PCIe passthrough on Proxmox](https://github.com/JRiddle-tech/ProxmoxHomeLab/tree/main)
+  - [NAS with zpool](https://github.com/JRiddle-tech/ProxmoxNAS)
   - Virtualize Firewall/Router with pfSense
 
 <h2> 🤳 Connect with me:</h2>
