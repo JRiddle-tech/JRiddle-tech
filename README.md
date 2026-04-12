@@ -2,6 +2,7 @@
 
 <h2>Certifications:</h2>
 
+  - [Cisco CCNA](https://imgur.com/a/7iRr7kq) (May 2025)
   - [CompTIA Network+](https://i.imgur.com/pikaMvV.png) (May 2024)
   - [CompTIA A+](https://i.imgur.com/npvkKmV.png) (February 2024) 
   - [Google IT Support Professional](https://i.imgur.com/GSDwZIM.png) (December 2023)
