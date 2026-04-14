@@ -11,7 +11,7 @@
 ## 👨‍💻 Development Projects:
 
 * **Networking**
-  + [OPNsense Firewall & Network Setup](https://github.com/JRiddle-tech/OPNsense-Network-Setup)
+  + [OPNsense Firewall & Network Setup](https://github.com/JRiddle-tech/OPNsense-setup)
   + Network Topology and VLAN Design
   + Firewall Rules
   + VPN: Tailscale, Mullvad Configuration
